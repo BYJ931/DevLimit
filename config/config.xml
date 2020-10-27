@@ -8,10 +8,10 @@
 	<TargetDir>@ApplicationsDir@/MyApp</TargetDir>
     <RemoteRepositories>
         <Repository>
-            <Url>svn://svnbucket.com/BYJ123/QtProject/trunk/DevLimitSetV2.0/MyApp</Url>
+            <Url>https://raw.githubusercontent.com/BYJ931/DevLimit/master/repository</Url>
             <Enabled>1</Enabled>
-            <Username>BYJ123</Username>
-            <Password>dsdbybyd931</Password>
+            <Username>BYJ931</Username>
+            <Password>dsdbybyd123</Password>
             <DisplayName>Example repository</DisplayName>
         </Repository>
     </RemoteRepositories>		
