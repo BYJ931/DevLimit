@@ -6,13 +6,13 @@
   <Name>com.waleon.ifw</Name>
   <DisplayName>MyApp</DisplayName>
   <Description>The first ifw installer.</Description>
-  <Version>1.0.0-1</Version>
+  <Version>2.0.0-1</Version>
   <ReleaseDate>2019-10-12</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" UncompressedSize="21864062" CompressedSize="6711781"/>
+  <UpdateFile CompressedSize="6711781" UncompressedSize="21864062" OS="Any"/>
   <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
   <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>c64d6a700f0d46e84c748cc97a694d36d0c4401c</SHA1>
+  <SHA1>8d767e692de5fef7d5b07339e006ff137673ad1a</SHA1>
  </PackageUpdate>
 </Updates>
