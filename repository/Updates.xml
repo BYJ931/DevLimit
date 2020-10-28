@@ -3,16 +3,15 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>com.waleon.ifw</Name>
+  <Name>byj.ifw</Name>
   <DisplayName>MyApp</DisplayName>
   <Description>The first ifw installer.</Description>
-  <Version>2.0.0-1</Version>
+  <Version>3.0.0-1</Version>
   <ReleaseDate>2019-10-12</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="6711781" UncompressedSize="21864062" OS="Any"/>
-  <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
-  <UserInterfaces>targetwidget.ui</UserInterfaces>
-  <SHA1>8d767e692de5fef7d5b07339e006ff137673ad1a</SHA1>
+  <UpdateFile CompressedSize="6711208" UncompressedSize="21863375" OS="Any"/>
+  <DownloadableArchives>bin.7z</DownloadableArchives>
+  <SHA1>646df3e920a607b6d1f6a1e5b473d18a5899840b</SHA1>
  </PackageUpdate>
 </Updates>

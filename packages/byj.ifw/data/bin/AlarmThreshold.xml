@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ConfigSet title="同一监控点配置不同告警上下限定义对应表">
+    <DeviceID name="开关电源_06" id="12345670601234">
+        <CellId AlarmDelay="120" Threshold="47" AlarmEndDiff="10" name="直流输出电压过低告警" id="0406008001"/>
+        <CellId AlarmDelay="120" Threshold="55" AlarmEndDiff="-1.04" name="直流输出电压过高告警" id="0406009001"/>
+    </DeviceID>
+</ConfigSet>
