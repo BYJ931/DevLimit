@@ -6,12 +6,12 @@
   <Name>byj.ifw</Name>
   <DisplayName>MyApp</DisplayName>
   <Description>The first ifw installer.</Description>
-  <Version>3.0.0-1</Version>
+  <Version>5.0.0-1</Version>
   <ReleaseDate>2019-10-12</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="6711208" UncompressedSize="21863375" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="6711187" UncompressedSize="21863375"/>
   <DownloadableArchives>bin.7z</DownloadableArchives>
-  <SHA1>646df3e920a607b6d1f6a1e5b473d18a5899840b</SHA1>
+  <SHA1>799954094289519352022ecc0d3af251c0fd89b9</SHA1>
  </PackageUpdate>
 </Updates>
